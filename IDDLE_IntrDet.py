@@ -5,6 +5,7 @@ Created on Fri Feb 2 11:00:57 2024
 @author: yegok
 """
 
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
