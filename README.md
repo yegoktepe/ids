@@ -15,4 +15,3 @@ Deep Learning in Intrusion Detection: The study introduces a new intrusion detec
 Superior Performance and Continuous Innovation: Experimental results demonstrate that the proposed IDDLE model outperforms existing methods. This highlights the potential of deep learning in enhancing IDS performance. The study emphasizes the need for continuous innovation and collaboration among security researchers, developers, and users to stay ahead of evolving cyber threats.
 
 Advanced Feature Extraction and Hybrid Strategies: The findings underscore the importance of advanced feature extraction techniques and hybrid detection strategies in building robust intrusion detection systems.
-
